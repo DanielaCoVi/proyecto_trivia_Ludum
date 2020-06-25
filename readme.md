@@ -24,3 +24,4 @@ B. [Boceto en Figma](https://www.figma.com/file/KhaCmKva5fPxsfATtjbAy6/Untitled?
 **3. Implementación interfaz usuario (MVP)**
 [Link Replit](https://repl.it/@JuliethSalcedo/proyectotriviaLudum#index.html)
 **4. Codigo en Github**
+[Link Github] (https://danielacovi.github.io/proyecto_trivia_Ludum/)
